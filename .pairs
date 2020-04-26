@@ -1,14 +1,14 @@
 # This is for the awesome git pair https://plugins.jetbrains.com/plugin/8135 plugin.
 # But it works with the Pivotal Labs `git pair` plugin too.
 
-#pairs:
+pairs:
 #  gc: Grumpy Cat;grumpy.cat
 #  oc: OctoCat; octocat@github.com
-#  cd: James Kirk; 64169716+CaptainDunsel@users.noreply.github.com
-#  bh: Burk Hufnagel; 304328+BurkHufnagel@users.noreply.github.com
+  cd: James Kirk; 64169716+CaptainDunsel@users.noreply.github.com
+  bh: Burk Hufnagel; 304328+BurkHufnagel@users.noreply.github.com
 #
-#email:
-#  prefix:
-#  domain: example.com
+email:
+  prefix:
+  domain: example.com
 #
-#global: true
+global: true
